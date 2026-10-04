@@ -1,4 +1,4 @@
-name: Build Flutter APK
+name: fuel_temp_app
 
 on:
   push:
